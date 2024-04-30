@@ -1,0 +1,27 @@
+span {
+    color: red;
+}
+
+button {
+    background-color: white !important;
+    border-color: rgba(207, 206, 206, 0.726) !important;
+}
+
+button:hover {
+    background-color:rgb(243, 240, 240) !important;
+}
+
+form {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #f6f8fa;
+}
+
+.form-txt {
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.form-body {
+    border-radius: 10px;
+}
